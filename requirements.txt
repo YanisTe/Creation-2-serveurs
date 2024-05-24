@@ -1,9 +1,10 @@
-Toutes les bibliothèques python nécessaire à l'installation de la toolsbox : 
 nmap
 scapy
 paramiko
 requests
 beautifulsoup4
 reportlab
-tkinter
+tk
 tqdm
+netifaces
+ipaddress
