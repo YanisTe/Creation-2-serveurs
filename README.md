@@ -1,4 +1,4 @@
-# Toolbox de Sécurité Réseau
+# Toolbox de Sécurité Réseau sous Kali Linux
 
 ## Introduction
 La **Toolbox de Sécurité Réseau** est une suite complète d'outils conçue pour renforcer la sécurité de vos systèmes et réseaux. Cette boîte à outils vous permet de détecter les vulnérabilités, d'analyser le trafic réseau, de tester la robustesse des accès SSH, et bien plus encore, le tout via une interface utilisateur intuitive.
@@ -11,6 +11,7 @@ La **Toolbox de Sécurité Réseau** est une suite complète d'outils conçue po
 - **Scan Récursif d’Adresse IP et Sous-domaines**
 
 ## Prérequis
+- Kali Linux
 - Python 3.x
 - Les outils externes suivants doivent être installés :
   - Sublist3r
