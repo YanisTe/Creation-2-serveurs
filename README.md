@@ -22,8 +22,8 @@ La **Toolbox de Sécurité Réseau** est une suite complète d'outils conçue po
 ### Cloner le Dépôt
 1. Clonez ce dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-projet.git
-    cd votre-projet
+    git clone https://github.com/YanisTe/ToolsBox.git
+    cd ToolsBox
     ```
 
 ### Installer les Dépendances
@@ -36,7 +36,8 @@ La **Toolbox de Sécurité Réseau** est une suite complète d'outils conçue po
 3. Assurez-vous que les outils externes (Sublist3r, Wireshark) sont installés et configurés correctement.
 
 ## Utilisation
-1. Lancez la toolbox :
+1. Aller dans le répertoire cd ToolsBox/Master
+2. Lancez la toolbox :
     ```bash
     python toolbox_menu.py
     ```
